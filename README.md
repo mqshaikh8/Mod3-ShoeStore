@@ -116,7 +116,7 @@ And the HTML of how you should render the form in the `#form-container` should l
 <form id="new-review">
   <div class="form-group">
     <textarea class="form-control" id="review-content" rows="3"></textarea>
-    <input type="submit" class="btn btn-primary"></input>
+    <input type="submit" class="btn btn-primary" input>
   </div>
 </form>
 ```
